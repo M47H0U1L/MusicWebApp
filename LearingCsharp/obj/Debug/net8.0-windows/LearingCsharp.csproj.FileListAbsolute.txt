@@ -1,0 +1,14 @@
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\bin\Debug\net8.0-windows\LearingCsharp.exe
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\bin\Debug\net8.0-windows\LearingCsharp.deps.json
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\bin\Debug\net8.0-windows\LearingCsharp.runtimeconfig.json
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\bin\Debug\net8.0-windows\LearingCsharp.dll
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\bin\Debug\net8.0-windows\LearingCsharp.pdb
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\LearingCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\LearingCsharp.AssemblyInfoInputs.cache
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\LearingCsharp.AssemblyInfo.cs
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\LearingCsharp.csproj.CoreCompileInputs.cache
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\LearingCsharp.dll
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\refint\LearingCsharp.dll
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\LearingCsharp.pdb
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\LearingCsharp.genruntimeconfig.cache
+C:\Users\mathk\source\repos\LearingCsharp\LearingCsharp\obj\Debug\net8.0-windows\ref\LearingCsharp.dll
